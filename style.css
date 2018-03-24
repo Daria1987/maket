@@ -14,3 +14,15 @@ header{
 	float: left;
 	margin: 32px 0px 0px 375px;
 }
+nav{
+	float:left;
+	
+}
+nav li{
+	float: left;
+	margin: 42px 77px 0px 123px;
+
+	}
+	nav li a{
+		color: #2a71b7;
+	}
